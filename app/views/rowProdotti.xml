@@ -1,0 +1,14 @@
+<Alloy>
+	<TableViewRow class="row">
+		<View layout="horizontal">
+			<View id="sx" layout="vertical">
+				<View id="desc">
+					<Label id="title"/>					
+				</View>
+				<View id="info">
+				</View>
+			</View>
+			<View id="rx"></View>
+		</View>
+	</TableViewRow>
+</Alloy>

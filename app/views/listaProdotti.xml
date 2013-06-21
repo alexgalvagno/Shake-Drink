@@ -1,0 +1,7 @@
+<Alloy>
+    <Window id="listaProdotti">
+		<ActivityIndicator id="activityIndicator" message="Loading ..."/>
+	    <TableView id="table">
+		</TableView>
+    </Window>
+</Alloy>
